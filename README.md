@@ -5,7 +5,6 @@
 
 Hi there! I'm Shariff Mukhlis Rahmatullah bin Mahat Saring, a 22-year-old Interactive Media Computer Science student from University Technical of Malaysia Malacca. I am passionate about full-stack development, and I love exploring new technologies.
 
-- 🔭 I’m currently working on **Class Attendance System** for mobile application
 
 - 🌱 I’m currently learning **React and Flutter**
 
