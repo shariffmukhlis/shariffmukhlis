@@ -24,15 +24,16 @@ Here are some of the projects I have worked on:
 
 -   Vaccine Management System
 -   Bus Management System
--   Attendance System
+-   Class Attendance System
+-   Court Booking Management System
 
 All of these projects are available on my GitHub profile. Please feel free to check them out and let me know what you think!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shariffmukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shariffmukhlis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shariff-mukhlis" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="shariffmukhlis" height="30" width="40" /></a>
 <a href="https://instagram.com/shariff.mukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariff.mukhlis" height="30" width="40" /></a>
 <a href="https://www.behance.net/shariffmukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shariffmukhlis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shariff.mukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shariff.mukhlis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shariff.mukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shariff.mukhlis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
