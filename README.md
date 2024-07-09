@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shariff Mukhlis</h1>
-<h3 align="center">A passionate Interactive Media student interest in Full Stack Development and Virtual Reality</h3>
+<h3 align="center">A passionate guy who interest in Full Stack Development and Virtual Reality</h3>
 
 ## About Me
 
